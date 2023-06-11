@@ -4553,9 +4553,9 @@ nuxt-icon@^0.4.1:
     "@nuxt/kit" "^3.5.0"
 
 nuxt-og-image@2.0.0-beta.57:
-  version "2.0.0-beta.56"
-  resolved "https://registry.yarnpkg.com/nuxt-og-image/-/nuxt-og-image-2.0.0-beta.56.tgz#01844171d5d0f3587aee7340d99405afb5f60143"
-  integrity sha512-L09fMXsDZKkmvG4EnhjvWmFkiaJZpY1BllQf2sBcRdzLEudt3crui0pkcRS/CMe7nEWz8jFDuam9uEejpHJk3A==
+  version "2.0.0-beta.57"
+  resolved "https://registry.yarnpkg.com/nuxt-og-image/-/nuxt-og-image-2.0.0-beta.57.tgz#21fa94f90ed736801f395b3fa1586bc6bf57ef7a"
+  integrity sha512-Ezpe7hfsvGLisWUWp55XsB3OEz6lydW2BbnY2yxkEjjqH7Tyq0Sec/3vinjp9GNLZ2haFBCJmIETNt7uDrjbxQ==
   dependencies:
     "@nuxt/kit" "^3.5.3"
     "@resvg/resvg-js" "^2.4.1"
