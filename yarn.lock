@@ -4552,7 +4552,7 @@ nuxt-icon@^0.4.1:
     "@iconify/vue" "^4.1.1"
     "@nuxt/kit" "^3.5.0"
 
-nuxt-og-image@2.0.0-beta.56:
+nuxt-og-image@2.0.0-beta.57:
   version "2.0.0-beta.56"
   resolved "https://registry.yarnpkg.com/nuxt-og-image/-/nuxt-og-image-2.0.0-beta.56.tgz#01844171d5d0f3587aee7340d99405afb5f60143"
   integrity sha512-L09fMXsDZKkmvG4EnhjvWmFkiaJZpY1BllQf2sBcRdzLEudt3crui0pkcRS/CMe7nEWz8jFDuam9uEejpHJk3A==
